@@ -1,0 +1,11 @@
+.idea/
+*.iml
+
+.gradle/
+
+**/.tests.executed
+f**/node_modules/
+**/build/
+**/build_packageFrontend/
+
+

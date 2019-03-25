@@ -1,0 +1,5 @@
+rootProject.name = 'project-sample-bf'
+
+include 'backend'
+include 'frontend'
+
